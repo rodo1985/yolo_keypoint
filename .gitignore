@@ -164,3 +164,4 @@ pose-detection-keypoints-estimation-yolov8
 data
 datasets
 datasets_old
+mlruns
